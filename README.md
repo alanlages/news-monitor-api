@@ -1,5 +1,5 @@
 # news-monitor-api
-API Restful with Java 8, Spring Boot v2.7.2, postgreSQL, Eclipse e Spring Tools
+API RESTful with Java 8, Spring Boot v2.7.2, postgreSQL, Eclipse e Spring Tools
 ## 1. Download images the postgreSQL and pgadmin4
 
 docker pull postgres
